@@ -1,0 +1,5 @@
+﻿d:\Users\ronald gao\documents\visual studio 2015\Projects\HistogramsandFilters\HistogramsandFilters.vcxproj(63,5): warning MSB4011: "C:\Users\Ronald Gao\AppData\Local\Microsoft\MSBuild\v4.0\Microsoft.Cpp.x64.user.props" cannot be imported again. It was already imported at "d:\Users\ronald gao\documents\visual studio 2015\Projects\HistogramsandFilters\HistogramsandFilters.vcxproj (57,5)". This is most likely a build authoring error. This subsequent import will be ignored. 
+  source.cpp
+d:\users\ronald gao\documents\visual studio 2015\projects\histogramsandfilters\source.cpp(88): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  HistogramsandFilters.vcxproj -> d:\users\ronald gao\documents\visual studio 2015\Projects\HistogramsandFilters\x64\Debug\HistogramsandFilters.exe
+  HistogramsandFilters.vcxproj -> d:\users\ronald gao\documents\visual studio 2015\Projects\HistogramsandFilters\x64\Debug\HistogramsandFilters.pdb (Full PDB)
